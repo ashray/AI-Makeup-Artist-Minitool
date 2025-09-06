@@ -34,18 +34,18 @@ interface ExampleConfig {
 const examples: ExampleConfig[] = [
   {
     name: 'Natural Glow',
-    selfie: 'examples/selfie1.jpg',
-    makeup: 'examples/makeup1.jpg',
+    selfie: 'public/examples/selfie1.jpg',
+    makeup: 'public/examples/makeup1.jpg',
   },
   {
     name: 'Smokey Eye',
-    selfie: 'examples/selfie2.jpg',
-    makeup: 'examples/makeup2.jpg',
+    selfie: 'public/examples/selfie2.jpg',
+    makeup: 'public/examples/makeup2.jpg',
   },
   {
     name: 'Bridal Glow',
-    selfie: 'examples/selfie3.jpg',
-    makeup: 'examples/makeup3.jpg',
+    selfie: 'public/examples/selfie3.jpg',
+    makeup: 'public/examples/makeup3.jpg',
   },
 ];
 
