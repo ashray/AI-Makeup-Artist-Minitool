@@ -1,0 +1,5 @@
+{
+  "name": "AI Makeup Artist",
+  "description": "A tool that uses AI to transfer a makeup look from a reference photo to your selfie. Upload a selfie and a makeup inspiration photo to see the magic.",
+  "requestFramePermissions": []
+}
